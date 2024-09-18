@@ -8,4 +8,4 @@ Goals:
  * processing speed
  * language, serialization format, agnostic
 
-Linked dictionary is not a JSON-LD alternative. JSON-LD provides a full feature set to transform general JSON into/from RDF. Linked dictionary intentionally provides only basic, simple mapping, and can serve only to a limited subset of JSON-LD use-cases.
+Linked dictionary is not a JSON-LD alternative. JSON-LD provides a full feature set to transform general JSON into/from RDF. Linked dictionary intentionally provides only basics, a simple mapping, and can serve only to a limited subset of JSON-LD use-cases.
