@@ -4,8 +4,9 @@ Yet another, but a very simple concept to turn tree data structures into Linked 
 
 ### Goals
  * simplicity
- * dictionaries generation
+ * integrity
  * unambiguity
+ * dictionaries generation
  * processing speed
  * language, serialization format, agnostic
 
