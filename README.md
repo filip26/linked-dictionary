@@ -20,9 +20,9 @@ Linked dictionary is not a JSON-LD alternative. JSON-LD provides a full feature 
 | Composability | ❌ |  ✅  (context array, `@included`) | 
 | Transformations | ❌ |  ✅  |
 | Term Redefinition Resilience |  ✅  |  ✅ (`@protected`) |
-| Stream Processing | ✅  | :negative_squared_cross_mark: (only when some conditions are met) |
 | Term Definition Reflection | ✅ | ❌ (standard JSON-LD algorithms do not provide information about source of a term definition) |
 | Term Definition Source Unambiguity  | ✅ | ❌ |
+| Complexity | Low | Medium to High |
 | Model  | Tree | Graph |
 
 
