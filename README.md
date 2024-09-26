@@ -6,8 +6,8 @@ Yet another, but a very simple concept to turn tree data structures into Linked 
  * simplicity
  * integrity
  * unambiguity
- * dictionaries generation
  * processing speed
+ * dictionaries generation
  * language, serialization format, agnostic
 
 
